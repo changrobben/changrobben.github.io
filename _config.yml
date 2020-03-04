@@ -38,7 +38,7 @@ home:
 blog:
   cc_license: http://creativecommons.org/licenses/by-sa/4.0/ # A link to CC License of your choice.
   cc_license_image: /assets/images/theme/cc-by-sa.png # An image of your CC License. 
-  footer_content:
+  footer_content: 欢迎垂询
 
 disqus:
   shortname:  # e.g. yizeng
