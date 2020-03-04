@@ -23,8 +23,8 @@ sass:
 # Site Data
 url: https://wdzl.vip # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: / # the subpath of your site, e.g. /blog
-title: 私人订制
-description: "专业为您打造极简风格博客"
+title: Mr.Chang
+description: "我的博客我做主"
 keywords: 'blog,博客,网站,website'
 author:
   name: Mr.Chang
@@ -33,12 +33,12 @@ author:
   email: changchuiyong@outlook.com
 
 home:
-  section1: <h1>私人订制</h1>
-  section2: <h2>简单明了，尽显逼格</h2>
+  section1: <h1>Mr.Chang</h1>
+  section2: <h2>个人博客</h2>
 blog:
   cc_license: http://creativecommons.org/licenses/by-sa/4.0/ # A link to CC License of your choice.
   cc_license_image: /assets/images/theme/cc-by-sa.png # An image of your CC License. 
-  footer_content: 欢迎垂询
+  footer_content: 联系我
 
 disqus:
   shortname:  # e.g. yizeng
