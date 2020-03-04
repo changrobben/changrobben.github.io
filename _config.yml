@@ -21,7 +21,7 @@ sass:
   style: compressed
 
 # Site Data
-url: #https://wdzl.vip # the base hostname & protocol for your site, e.g. http://example.com
+url: https://wdzl.vip # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: / # the subpath of your site, e.g. /blog
 title: 私人订制
 description: "专业为您打造极简风格博客"
