@@ -17,7 +17,7 @@ layout: blog
                         <p class="date-publish">
                             {{ site.data.i18n[site.lang].published }}:
                             <time itemprop="datePublished" class="date-pub {% if page.last_updated == null %}updated{% endif %}"
-                                title="{{ page.date | date_to_xmlschema }}" datetime="{{ page.date | date_to_xmlschema }}"> {{ page.date | date: '%Y' }}年{{ page.date | date: '%m' }}月{{ page.date | date: '%d' }}日</time>
+                                title="{{ page.date | date_to_xmlschema }}" datetime="{{ page.date | date_to_xmlschema }}">&#12288;{{ page.date | date: '%Y' }}年{{ page.date | date: '%m' }}月{{ page.date | date: '%d' }}日</time>
                         </p>
                         <ul class="list-category list-linear">
                             <li class="list-head">{{ site.data.i18n[site.lang].categories }}: </li>
