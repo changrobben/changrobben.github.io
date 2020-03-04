@@ -35,18 +35,6 @@ author:
   social_links:
     - name: facebook
       url:
-    - name: github
-      url: https://github.com/yizeng/jekyll-theme-simple-texture
-    - name: instagram
-      url:
-    - name: linkedin
-      url:
-    - name: stackoverflow
-      url:
-    - name: twitter
-      url: 
-    - name: vk
-      url:
 home:
   section1: <h1>Simple Texture</h1>
   section2: <h2>A gem-based responsive simple texture styled Jekyll theme</h2>
