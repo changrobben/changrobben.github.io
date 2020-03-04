@@ -24,7 +24,7 @@ sass:
 url: https://wdzl.vip # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: / # the subpath of your site, e.g. /blog
 title: Mr.Chang
-description: "我的博客我做主"
+description: "个人博客"
 keywords: 'blog,博客,网站,website'
 author:
   name: Mr.Chang
