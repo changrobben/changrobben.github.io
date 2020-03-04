@@ -27,13 +27,11 @@ title: 私人订制
 description: "专业为您打造极简风格博客"
 keywords: 'blog,博客,网站,website'
 author:
-  name:
-  job_title:
-  location:
-  email:
-  social_links:
-    - name: weibo
-      url: https://weibo.com/changchuiyong
+  name: Mr.Chang
+  job_title: Artist
+  location: Shanghai
+  email: changchuiyong@outlook.com
+
 home:
   section1: <h1>私人订制</h1>
   section2: <h2>简单明了，尽显逼格</h2>
@@ -43,7 +41,7 @@ blog:
   footer_content:
 
 disqus:
-  shortname: # e.g. yizeng
+  shortname:  # e.g. yizeng
   public_key: # e.g. ULZ0b9TFefCUJHKQd4JCKv2v3u27YoG7YG8zXPewkWrT333Z0Se9YnxLzoV6VM8W
 google_tag_manager: # e.g. 'GTM-KCQJXZ8F'
 addthis_public_id: # AddThis sharing plugin. See http://www.addthis.com/. E.g. ra-53329e27694534j5 
