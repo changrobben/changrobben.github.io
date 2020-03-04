@@ -21,8 +21,8 @@ sass:
   style: compressed
 
 # Site Data
-url: https://wdzl.vip # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: /blog # the subpath of your site, e.g. /blog
+url: #https://wdzl.vip # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: #/blog # the subpath of your site, e.g. /blog
 title: 私人订制
 description: "专业为您打造极简风格博客"
 keywords: 'blog,博客,网站,website'
@@ -32,8 +32,6 @@ author:
   location:
   email:
   social_links:
-    - name: facebook
-      url:
     - name: weibo
       url: https://weibo.com/changchuiyong
 home:
